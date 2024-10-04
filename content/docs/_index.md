@@ -1,4 +1,4 @@
-+++
+control+shift+m
 title="Getting Started"
 weight=1
 summary="Get started with Cloud Native Buildpacks."
